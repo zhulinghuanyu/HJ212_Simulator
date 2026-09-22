@@ -1,0 +1,5 @@
+# HJ212 模拟器 运行/打包依赖
+PySide6-Essentials>=6.5
+pyserial>=3.5
+# 打包用（仅构建时需要）
+pyinstaller>=6.0
