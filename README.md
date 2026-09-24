@@ -5,7 +5,7 @@
 既可当**现场机（数采仪）**连到监控平台，也可当**上位机（平台侧）**接收多台现场机数据，用于联调、验收、回归测试和协议学习。
 
 <p align="center">
-  <img src="assets/icon.png" width="96" alt="HJ212 模拟器">
+  <img width="1282" height="852" alt="image" src="https://github.com/user-attachments/assets/b9abfaa4-8388-4862-a888-c2d21c669f23" />
 </p>
 
 ---
